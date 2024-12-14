@@ -1,8 +1,5 @@
 # Time Series Classification in Python 🚀
 
-[![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
-[![Stars](https://img.shields.io/github/stars/yourusername/time-series-classification.svg)](https://github.com/marcopeix/time-series-classification-in-python/stargazers)
-
 ![Course Banner](assets/2.jpg)
 
 Master machine learning techniques for time series classification, in the most complete course on the subject, through hands-on projects and real-world applications.
